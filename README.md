@@ -93,10 +93,10 @@ High recall ensures that most machine failures are detected early, which is cruc
 ## Project Structure
 
 ```
-tool-failure-prediction/
+machine-failure-prediction/
 │
 ├── machine_failure.csv
-├── predictive_model.ipynb
+├── Machine Failure Prediction Using Machine Learning.ipynb
 ├── README.md
 ```
 
@@ -113,7 +113,7 @@ pip install pandas scikit-learn xgboost imbalanced-learn seaborn matplotlib
 Run the notebook:
 
 ```
-predictive_model.ipynb
+Machine Failure Prediction Using Machine Learning.ipynb
 ```
 
 ---
